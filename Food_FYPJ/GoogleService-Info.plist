@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>549215560003-sgkvjsa4nok5esrcv8vcg354fri9tunj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.549215560003-sgkvjsa4nok5esrcv8vcg354fri9tunj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCW2HZRevOGrTRhyIV96Rgi6fBwzuSfWIE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>549215560003</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.NYP.Food-FYPJ</string>
+	<key>PROJECT_ID</key>
+	<string>fypjfood</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fypjfood.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:549215560003:ios:677d8b445d2342ec384ff6</string>
+	<key>DATABASE_URL</key>
+	<string>https://fypjfood.firebaseio.com</string>
+</dict>
+</plist>
